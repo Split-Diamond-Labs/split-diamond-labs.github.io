@@ -1,0 +1,40 @@
+body {
+    font-family: "Segoe UI";
+    background-color: black;
+}
+
+div.text-wrapper {
+    text-align: center;
+}
+
+div.logo {
+    padding: 0;
+    background-image: url("logo.png");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow;
+}
+
+h1 {
+    font-size: 1000%;
+    text-align: center;
+    padding-top: 19%;
+    padding-bottom: 25%;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #0000ff;
+}
+
+a:visited {
+    color: white;
+}
