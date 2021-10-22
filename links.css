@@ -9,3 +9,11 @@ a:hover {
 a:visited {
     color: white;
 }
+
+.logo a {
+    color: rgb(255, 0, 0);
+}
+
+.logo a:visited {
+    color: rgb(255, 0, 0);
+}
