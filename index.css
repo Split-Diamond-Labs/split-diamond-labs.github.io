@@ -20,6 +20,19 @@ div.logo {
     color: orange;
 }
 
+div.logo1 {
+    padding: 0;
+    background-image: url("logo1.png");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: orange;
+}
+
 h1 {
     font-size: 1000%;
     text-align: center;
